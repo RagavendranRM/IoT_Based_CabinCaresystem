@@ -1,3 +1,2 @@
 # IoT_Based_CabinCaresystem
-Intelligent Health Monitoring and Air Quality Management
-This innovative IoT solution addresses the critical issue of deteriorating air quality within truck cabins, particularly in environments like mines. Long-haul truck drivers face prolonged exposure to pollutants, leading to fatigue and potential health risks. The implemented system, utilizing gas sensors, health monitors, and an ESP32 controller, actively detects and mitigates air contaminants. It not only enhances driver well-being by providing real-time alerts and health parameter monitoring but also ensures fleet management is promptly informed. The comprehensive approach, including air purification and machine learning analytics, tackles driver fatigue and promotes a safer, healthier work environment, mitigating the risk of accidents due to compromised air quality.
+Intelligent Health Monitoring and Air Quality Management....>>
